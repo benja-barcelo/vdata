@@ -1,0 +1,137 @@
+[
+  {
+    "Nombre": "Lionel Messi",
+    "Pais": "Argentina",
+    "% de votos": 24.36,
+    "ranking": 1,
+    "continente": "America",
+    "posicion": "delantero",
+    "edad": 32
+  },
+  {
+    "Nombre": "Virgil Van Dijk",
+    "Pais": "Holanda",
+    "% de votos": 24.11,
+    "ranking": 2,
+    "continente": "Europa",
+    "posicion": "defensor",
+    "edad": 28
+  },
+  {
+    "Nombre": "Cristiano Ronaldo",
+    "Pais": "Portugal",
+    "% de votos": 16.9,
+    "ranking": 3,
+    "continente": "Europa",
+    "posicion": "delantero",
+    "edad": 34
+  },
+  {
+    "Nombre": "Sadio Mane",
+    "Pais": "Senegal",
+    "% de votos": 12.32,
+    "ranking": 4,
+    "continente": "Africa",
+    "posicion": "delantero",
+    "edad": 27
+  },
+  {
+    "Nombre": "Mohammed Salah",
+    "Pais": "Egipto",
+    "% de votos": 6.32,
+    "ranking": 5,
+    "continente": "Africa",
+    "posicion": "delantero",
+    "edad": 27
+  },
+  {
+    "Nombre": "Kylian Mbappe",
+    "Pais": "Francia",
+    "% de votos": 3.16,
+    "ranking": 6,
+    "continente": "Europa",
+    "posicion": "delantero",
+    "edad": 21
+  },
+  {
+    "Nombre": "Alisson Becker",
+    "Pais": "Brasil",
+    "% de votos": 2.38,
+    "ranking": 7,
+    "continente": "America",
+    "posicion": "arquero",
+    "edad": 27
+  },
+  {
+    "Nombre": "Robert Lewandowski",
+    "Pais": "Polonia",
+    "% de votos": 1.56,
+    "ranking": 8,
+    "continente": "Europa",
+    "posicion": "delantero",
+    "edad": 31
+  },
+  {
+    "Nombre": "Bernardo Silva",
+    "Pais": "Portugal",
+    "% de votos": 1.46,
+    "ranking": 9,
+    "continente": "Europa",
+    "posicion": "mediocampista",
+    "edad": 25
+  },
+  {
+    "Nombre": "Riyad Mahrez",
+    "Pais": "Argelia",
+    "% de votos": 1.17,
+    "ranking": 10,
+    "continente": "Africa",
+    "posicion": "mediocampista",
+    "edad": 28
+  },
+  {
+    "Nombre": "Frenkie de Jong",
+    "Pais": "Holanda",
+    "% de votos": 1.1,
+    "ranking": 11,
+    "continente": "Europa",
+    "posicion": "mediocampista",
+    "edad": 22
+  },
+  {
+    "Nombre": "Raheem Sterling",
+    "Pais": "Inglaterra",
+    "% de votos": 1.07,
+    "ranking": 12,
+    "continente": "Europa",
+    "posicion": "delantero",
+    "edad": 25
+  },
+  {
+    "Nombre": "Eden Hazard",
+    "Pais": "Belgica",
+    "% de votos": 0.89,
+    "ranking": 13,
+    "continente": "Europa",
+    "posicion": "delantero",
+    "edad": 28
+  },
+  {
+    "Nombre": "Kevin de Bruyne",
+    "Pais": "Belgica",
+    "% de votos": 0.5,
+    "ranking": 14,
+    "continente": "Europa",
+    "posicion": "mediocampista",
+    "edad": 28
+  },
+  {
+    "Nombre": "Matthijs de Ligt",
+    "Pais": "Holanda",
+    "% de votos": 0.46,
+    "ranking": 15,
+    "continente": "Europa",
+    "posicion": "defensor",
+    "edad": 20
+  }
+]
